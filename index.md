@@ -4,8 +4,7 @@
 
 - The teachers have great senses of humor (sometimes)
 - It teaches me a lot of very interesting and useful things.
-- they put funny images in the powerpoints, like this one:
-![Image](https://www.ivins.com/wp-content/uploads/2020/09/placeholder-1.png)
+- they put funny images in the powerpoints. Very Awesome. 
 
 ## Welcome to GitHub Pages
 
